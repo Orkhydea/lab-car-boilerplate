@@ -1,1 +1,52 @@
 /* Los estilos de tu proyecto */
+body{
+    background-color: #ffb300;
+    margin: 0;
+    padding: 0;
+}
+.brand-logo{
+    left: 1em;
+}
+.taxi{
+    background-image: url("../assets/images/taxi2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.white-text{
+    width: 80vh;
+    background-color: #ffb300;
+    height: 60vh;
+    font-size: 4vh;
+    text-align: justify;
+    
+    padding: 1em;
+    float: right;
+    margin-top: 20vh;
+    margin-right: -1vh;
+}
+hr{
+    display: inline-block;
+}
+.borders{
+    border: 2px solid white;
+    margin: 2em;
+    padding: 2em;
+    color: white;
+    text-align: justify;
+}
+.iphone{
+    padding: 2em;
+    width: 50vh;
+}
+.text{
+    padding: 3em;
+    text-align: justify;
+    font-size: 3vh;
+}
+.drive{
+    background-image: url("../assets/images/conduce.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
